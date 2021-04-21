@@ -1,4 +1,4 @@
 # about-me
 about me
 
-![Основы статистики](test.jpg)
+![Основы статистики](test.pdf)
