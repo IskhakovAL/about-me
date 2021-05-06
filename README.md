@@ -5,4 +5,4 @@
 
 
 
-![Основы стdedcewcweатистики](https://github.com/IskhakovAL/about-me/blob/main/test.jpg)
+![Основы стdedcewcweатистики](test.jpg)
